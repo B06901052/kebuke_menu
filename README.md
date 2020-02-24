@@ -7,6 +7,12 @@ _15 Feb 2020._
 * 爬取menu圖片、說明
 * 寫成網站 //未完成
 
+## Requirements
+* python3: 3.7.3
+* urllib3: 1.25.3
+* beautifulsoup4: 4.8.2
+* requests: 2.22.0
+
 ## Excution
 * download menu
 ```
